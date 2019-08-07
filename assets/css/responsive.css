@@ -1,0 +1,430 @@
+/* lg */ 
+@media (min-width: 1200px) {
+	#codDiv {
+		width: 515px !important;
+		background-color: #ECECEC !important;
+	}
+
+	#bankDiv {
+		width: 515px !important;
+		background-color: #ECECEC !important;
+	}
+	#remitDiv {
+		width: 515px !important;
+		background-color: #ECECEC !important;
+	}
+	#paypalDiv {
+		width: 515px !important;
+		background-color: #ECECEC !important;
+	}
+
+	.paymentItem {
+		dispay: flex !important;
+		justify-content: center !important;
+	}
+	#logBgImg{
+		 min-height: 100vh !important;
+  		 height: 870px !important;
+  	}
+
+}
+
+/* md */
+@media (min-width: 992px) and (max-width: 1199px) {
+ 	#adminNav {
+	position: relative !important;
+	height: 150px !important;
+	}
+
+	#navIto {
+		margin-top: 0 !important;
+	}
+
+	#contentAdmin {
+		margin-top: 0 !important;
+	}
+
+	#codDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+
+	#bankDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	#remitDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	#paypalDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	.homeImg {
+    height: 1366px !important;
+ 	 }
+ 	 .paymentItem {
+		dispay: flex !important;
+		justify-content: center !important;
+	}
+}
+
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+  	#adminNav {
+	position: relative !important;
+	}
+
+	#navIto {
+		margin-top: 0 !important;
+	}
+	#contentAdmin {
+		margin-top: 0 !important;
+	}
+	.paymentItem {
+		display: flex !important;
+		justify-content: center !important;
+	}
+
+	#detailsContact {
+		text-align: center !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+
+	#detailsContact p {
+		text-align: center !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+	.hideTab {
+		display: none !important;
+	}
+	#codDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+
+	#bankDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	#remitDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	#paypalDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	.homeImg {
+    height: 1024px !important;
+  	}
+  	#logBgImg{
+  		 height: 870px !important;
+  	}
+
+  	#wholeLogin {
+  		margin-top: 200px !important;
+  	}
+
+
+}
+/* xs */
+@media (max-width: 767px) {
+ #adminNav {
+	position: relative !important;
+	}
+
+	#navIto {
+		margin-top: 0 !important;
+	}
+	#contentAdmin {
+		margin-top: 0 !important;
+	}
+
+
+	#detailsContact {
+		text-align: center !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+	#detailsContact p {
+		text-align: center !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	} 
+	.hideMobile {
+		display: none !important;
+	}
+	#codDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+
+	#bankDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	#remitDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	#paypalDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	.homeImg {
+    height: 812px !important;
+  	}
+
+  	.paymentItem {
+		display: flex !important;
+		justify-content: center !important;
+	}
+	#logBgImg{
+  		 height: 1024px !important;
+  	}
+
+  	#wholeLogin {
+  		margin-top: 300px !important;
+  	}
+}
+
+/* XS Portrait */
+@media (max-width: 500px) {
+  #adminNav {
+	position: relative !important;
+	}
+
+	#navIto {
+		margin-top: 0 !important;
+	}
+	#contentAdmin {
+		margin-top: 0 !important;
+	}
+	.homeImg {
+    height: 812px !important;
+  }
+
+  .buttonsCart {
+  	display: block !important;
+  }
+
+}
+
+
+@media (max-width: 380px) {
+#adminNav {
+	position: relative !important;
+	}
+
+	#navIto {
+		margin-top: 0 !important;
+	}
+	#contentAdmin {
+		margin-top: 0 !important;
+	}
+
+
+	#dropdownSort select {
+		right: 50px !important;
+	}
+
+	#selectSort {
+		margin-right: 0 !important;
+	}
+
+	#logName {
+		background-size: 260px !important;
+	}
+
+	#newLog {
+		background-size: 340px 130px !important;
+	}
+
+	#newLogTitle {
+		margin-top: 30px !important; 
+	}
+
+	#logNameTitle {
+		margin-right: 20px !important;
+	}
+
+	#mobileRow {
+		/*display: flex !important;*/
+		padding-top: 10px !important;
+	}
+	.hideMobile {
+		display: none !important;
+	}
+	.buttonsCart {
+		position: relative !important;
+		top: 110px !important;
+		display: block !important;
+	}
+
+	.shipfee {
+		position: relative !important;
+		bottom: 100px !important;
+	}
+	.quantityInput {
+		width: 60px !important;
+	}
+
+	.orderSumImg {
+		margin-right: 0 !important;
+	}
+
+	#codDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+
+	#bankDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	#remitDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+	#paypalDiv {
+		width: 300px !important;
+		background-color: #ECECEC !important;
+	}
+
+	
+	#detailsContact {
+		text-align: center !important;
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+		display: flex !important;
+		justify-content: center !important;
+	}
+	#logBgImg{
+  		 height: 600px !important;
+  	}
+
+  	#wholeLogin {
+  		margin-top: 0px !important;
+  	}
+
+  	.formBg {
+  		width: 300px !important;
+  	}
+
+  	.mobileMargin {
+  		margin-left: 7px !important; 
+  		margin-right: 0px !important; 
+  	}
+}
+
+@media (max-width: 360px) {
+	#adminNav {
+	position: relative !important;
+	}
+
+	#navIto {
+		margin-top: 0 !important;
+	}
+	#contentAdmin {
+		margin-top: 0 !important;
+	}
+
+	.gallery {
+		padding-left: 5px !important;
+	}
+
+	.hideMobile {
+		display: none !important;
+	}
+
+	#logName {
+		background-size: 260px !important;
+	}
+	#newLog {
+		 background-size: 310px 130px !important;
+	}    
+   
+   	#newLogTitle {
+		font-size: 35px !important;
+	}
+	#logNameTitle {
+		margin-right: 20px !important;
+	}
+
+	#mobileRow {
+		/*display: flex !important;*/
+		padding-top: 10px !important;
+	}
+
+	.buttonsCart {
+		position: relative !important;
+		top: 110px !important;
+		display: block !important;
+	}
+
+	.shipfee {
+		position: relative !important;
+		bottom: 100px !important;
+	}
+	.quantityInput {
+		width: 60px !important;
+	}
+
+	.orderSumImg {
+		margin: 0 !important;
+	}
+
+	
+	.homeImg {
+      height: 640px !important;
+    }
+    #logBgImg{
+  		 height: 600px !important;
+  	}
+
+  	#wholeLogin {
+  		margin-top: 0px !important;
+  	}
+
+  	.formBg {
+  		width: 300px !important;
+  	}
+
+  	.mobileMargin {
+  		margin-left: 0px !important; 
+  		margin-right: 0px !important; 
+  	}
+ 
+}
+
+@media (max-width: 320px) {
+	#adminNav {
+	position: relative !important;
+	}
+
+	#navIto {
+		margin-top: 0 !important;
+	}
+	#contentAdmin {
+		margin-top: 0 !important;
+	}
+	.homeImg {
+      height: 568px !important;
+    }
+
+}
+
